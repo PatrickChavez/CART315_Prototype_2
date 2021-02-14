@@ -1838,3 +1838,99 @@ Received Import Request.
 Start importing Assets/CliffTexture.terrainlayer using Guid(1935ef5ebd2764327b9616bcd2aa981c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88f5bfc495fb93c6e05e45a2d7e85a5') in 0.014050 seconds
   Import took 0.018760 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3494.048842 seconds.
+  path: Assets/Standard Assets/Environment
+  artifactKey: Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment using Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15d9bf1bd8ae5097eebd449fe57b42a') in 0.001585 seconds
+  Import took 0.005622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/Standard Assets/Environment
+  artifactKey: Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment using Guid(6ca8c4e270f964e0da9f731d7d34b123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15d9bf1bd8ae5097eebd449fe57b42a') in 0.001339 seconds
+  Import took 0.004757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.617609 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree
+  artifactKey: Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree using Guid(c04a867c41990cb44b46672730a8e63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b6f81f4a8fcb83196b944477a2bd97') in 0.001829 seconds
+  Import took 0.005240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.542270 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf
+  artifactKey: Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf using Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f14fb68bc0b0b1d36134516ce23df9') in 0.002094 seconds
+  Import took 0.005393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf
+  artifactKey: Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf using Guid(98f48093c79e1de4aad538371abbe607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f14fb68bc0b0b1d36134516ce23df9') in 0.001080 seconds
+  Import took 0.004060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102289 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm
+  artifactKey: Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm using Guid(c91c1eb85782d5748ace27eb4d7415bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7ba0f09e2114f9c42cb8d84d005217') in 4.216326 seconds
+  Import took 4.220681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm
+  artifactKey: Guid(6aab193b7693b5e4c9741f1917d2987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm using Guid(6aab193b7693b5e4c9741f1917d2987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fef96e2e41924fa1c29a77360f594a') in 0.122500 seconds
+  Import took 0.126134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.459448 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer
+  artifactKey: Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer using Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106153dd7dbf4e02cbac7b90fced689f') in 0.001953 seconds
+  Import took 0.005188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer
+  artifactKey: Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer using Guid(73ab447d8034be44f8321c730cc6247a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106153dd7dbf4e02cbac7b90fced689f') in 0.000899 seconds
+  Import took 0.003513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104413 seconds.
+  path: Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm
+  artifactKey: Guid(469edab27ab6d004d84af2c4a851bd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm using Guid(469edab27ab6d004d84af2c4a851bd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8997d9ed568d519762595a1af6c7f4a0') in 0.143551 seconds
+  Import took 0.147771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 809.244025 seconds.
+  path: Assets/Foliage Free/models/pine1a.fbx
+  artifactKey: Guid(5463c855c66b2f740b4bc4c6379e0f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Foliage Free/models/pine1a.fbx using Guid(5463c855c66b2f740b4bc4c6379e0f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b71eafaf51cd27aeb08bade9dc8963') in 0.176075 seconds
+  Import took 0.180255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 248.547429 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(bdc55e3e4fa024f9ca53585f1793b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(bdc55e3e4fa024f9ca53585f1793b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b24eef8b891f5441a5cf8b2deb78b1') in 0.020359 seconds
+  Import took 0.024150 seconds .
+
