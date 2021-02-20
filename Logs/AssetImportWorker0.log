@@ -685,3 +685,75 @@ System memory in use after: 184.0 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2171.
 Total: 3.221505 ms (FindLiveObjects: 0.247704 ms CreateObjectMapping: 0.071479 ms MarkObjects: 2.155275 ms  DeleteObjects: 0.745508 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 594.205049 seconds.
+  path: Assets/TeleportPad.prefab
+  artifactKey: Guid(202cc9563f666486283b7b29b340e26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportPad.prefab using Guid(202cc9563f666486283b7b29b340e26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442bb3e4eb68316cec1cf6b47e1b21fb') in 0.058971 seconds
+  Import took 0.063073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050573 seconds.
+  path: Assets/TeleportPad.prefab
+  artifactKey: Guid(202cc9563f666486283b7b29b340e26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportPad.prefab using Guid(202cc9563f666486283b7b29b340e26f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442bb3e4eb68316cec1cf6b47e1b21fb') in 0.020633 seconds
+  Import took 0.024778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.546509 seconds.
+  path: Assets/TeleportTarget.prefab
+  artifactKey: Guid(2c3db01c54f444d2f905110d7c8de223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportTarget.prefab using Guid(2c3db01c54f444d2f905110d7c8de223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fab63fdc9c08671e531ef6cdd03bc27') in 0.011825 seconds
+  Import took 0.015948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060240 seconds.
+  path: Assets/TeleportTarget.prefab
+  artifactKey: Guid(2c3db01c54f444d2f905110d7c8de223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TeleportTarget.prefab using Guid(2c3db01c54f444d2f905110d7c8de223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fab63fdc9c08671e531ef6cdd03bc27') in 0.022448 seconds
+  Import took 0.026888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 728.382325 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(bdc55e3e4fa024f9ca53585f1793b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(bdc55e3e4fa024f9ca53585f1793b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947751552409c7688e5fe65290938161') in 0.186401 seconds
+  Import took 0.195538 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000572 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1577 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.0 MB.
+System memory in use after: 184.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2176.
+Total: 3.493941 ms (FindLiveObjects: 0.278470 ms CreateObjectMapping: 0.071677 ms MarkObjects: 2.364107 ms  DeleteObjects: 0.778326 ms)
+
