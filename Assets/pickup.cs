@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class pickup : MonoBehaviour
 {
     public string pickuptag;
+    public Text textComponent;
+    int score = 0;
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -12,6 +15,9 @@ public class pickup : MonoBehaviour
         {
             Debug.Log("Collision detected with pickup");
             Destroy(collision.collider.gameObject);
+
+            score = score + 1;
+            textComponent.text = "Cubes: " + score;
         }
     }
 
