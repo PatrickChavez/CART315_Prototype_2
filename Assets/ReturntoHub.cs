@@ -8,7 +8,7 @@ public class ReturntoHub : MonoBehaviour
     // https://forum.unity.com/threads/teleport-player-from-clicking-ui-button.299328/
 
     public Transform teleportLocation;
-    // Audio code from Satement and levelzerozilch 
+    // Audio code from Statement and levelzerozilch 
     public AudioSource[] sounds;
     public AudioSource noise1;
     public AudioSource noise2;

@@ -8,7 +8,7 @@ public class pickup : MonoBehaviour
     public string pickuptag;
     public Text textComponent;
     int score = 0;
-    // Audio code from Satement and levelzerozilch 
+    // Audio code from Statement and levelzerozilch 
     public AudioSource[] sounds;
     public AudioSource noise1;
     public AudioSource noise2;
