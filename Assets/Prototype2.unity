@@ -4182,7 +4182,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 431336199}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 149.82709, y: 0, z: 757}
+  m_LocalPosition: {x: 149.82709, y: 0, z: 758.8}
   m_LocalScale: {x: 1.6297742, y: 635.00073, z: 1271.7811}
   m_Children: []
   m_Father: {fileID: 2069836478}
@@ -4510,7 +4510,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 444971221}
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 3.9}
+  m_LocalPosition: {x: 0, y: 0, z: 4.62}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1878846299}
@@ -5104,7 +5104,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 591.6
+      value: 587.27
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7800,11 +7800,11 @@ MonoBehaviour:
       m_Calls: []
   m_text: '- Explore the game world and gather 5 red cubes
 
-    - Use teleportation
-    pads to quickly navigate around the world
+    - Use warp pads to
+    quickly navigate around the world
 
-    - Press the "P" key to return
-    to the hub area at any time (Try it now!)'
+    - Press the "P" key to return to the hub
+    area at any time (Try it now!)'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13140,7 +13140,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1792357989}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -262, y: 0, z: 352}
+  m_LocalPosition: {x: -263, y: 0, z: 352}
   m_LocalScale: {x: 1.6297741, y: 635.00073, z: 1271.7811}
   m_Children: []
   m_Father: {fileID: 2069836478}
